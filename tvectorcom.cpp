@@ -18,7 +18,7 @@
 		if (x<0)
 		{
 			c = NULL;
-			tamano = NULL;
+			tamano = 0;
 		}
 		else
 		{
